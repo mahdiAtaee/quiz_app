@@ -1,0 +1,16 @@
+#highScore{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+#finalScore{
+    font-size: 3rem;
+    color: #fff;
+    margin: 3rem;
+}
+li.high-score svg{
+    font-size: 1.5rem;
+    vertical-align: 1px;
+}
